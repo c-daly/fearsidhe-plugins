@@ -1,0 +1,58 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "fearsidhe-plugins",
+  "description": "Personal plugins for Claude Code by c-daly",
+  "owner": {
+    "name": "c-daly"
+  },
+  "plugins": [
+    {
+      "name": "agent-swarm",
+      "description": "Enforcement system for agent-based workflows. Manages phase enforcement, script routing for batch MCP operations, and autopilot approval.",
+      "version": "1.0.0",
+      "author": {
+        "name": "c-daly"
+      },
+      "category": "productivity",
+      "homepage": "https://github.com/c-daly/agent-swarm",
+      "source": {
+        "source": "github",
+        "repo": "c-daly/agent-swarm",
+        "commit": "f0829de8eb6821c06dc6e9081120941ac317ce0a",
+        "sha": "f0829de8eb6821c06dc6e9081120941ac317ce0a"
+      }
+    },
+    {
+      "name": "memory",
+      "description": "Durable agent observation memory (user/feedback/project/reference) for Claude Code.",
+      "version": "0.0.1",
+      "author": {
+        "name": "c-daly"
+      },
+      "category": "productivity",
+      "homepage": "https://github.com/c-daly/memory",
+      "source": {
+        "source": "github",
+        "repo": "c-daly/memory",
+        "commit": "0a8d223a7fb23690227505554499a3a0c4161cfc",
+        "sha": "0a8d223a7fb23690227505554499a3a0c4161cfc"
+      }
+    },
+    {
+      "name": "continuity",
+      "description": "Cross-project surfacing and meta-concerns curation for Claude Code.",
+      "version": "0.0.1",
+      "author": {
+        "name": "c-daly"
+      },
+      "category": "productivity",
+      "homepage": "https://github.com/c-daly/continuity",
+      "source": {
+        "source": "github",
+        "repo": "c-daly/continuity",
+        "commit": "0d602a70bd9a26da2e08aa17e332e74f5f27fe2d",
+        "sha": "0d602a70bd9a26da2e08aa17e332e74f5f27fe2d"
+      }
+    }
+  ]
+}
