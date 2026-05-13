@@ -25,7 +25,7 @@
     {
       "name": "memory",
       "description": "Durable agent observation memory (user/feedback/project/reference) for Claude Code.",
-      "version": "0.0.1",
+      "version": "0.1.0",
       "author": {
         "name": "c-daly"
       },
@@ -34,8 +34,8 @@
       "source": {
         "source": "github",
         "repo": "c-daly/memory",
-        "commit": "b0d51c6ce501e104fdbe49b16e4cf2d9608b3469",
-        "sha": "b0d51c6ce501e104fdbe49b16e4cf2d9608b3469"
+        "commit": "53da17b2dae97975fb3fc102b9d44fe93c4d2a56",
+        "sha": "53da17b2dae97975fb3fc102b9d44fe93c4d2a56"
       }
     },
     {
