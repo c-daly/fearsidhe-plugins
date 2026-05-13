@@ -1,4 +1,25 @@
+# Editor / OS cruft
 .DS_Store
 *.swp
 .idea/
 .vscode/
+
+# Claude Code's runtime / plugin-install infrastructure
+# (these are managed by Claude Code itself, not by the marketplace repo)
+cache/
+marketplaces/
+data/
+install-counts-cache.json
+installed_plugins.json
+known_marketplaces.json
+
+# Plugin source trees live in separate repos (cloned into these subdirs).
+# The marketplace repo tracks SHA pins in .claude-plugin/marketplace.json,
+# not plugin contents.
+agent-swarm/
+continuity/
+memory/
+memory-wt-*/
+
+# Legacy stub directory (predates the marketplace-as-plugins-root layout)
+fearsidhe-plugins-src/
