@@ -18,8 +18,8 @@
       "source": {
         "source": "github",
         "repo": "c-daly/agent-swarm",
-        "commit": "8256532d553a16966ce3d8f322e3976dea5cbd67",
-        "sha": "8256532d553a16966ce3d8f322e3976dea5cbd67"
+        "commit": "27d557b722fb9716a2099e3bc00e6fc36e835abe",
+        "sha": "27d557b722fb9716a2099e3bc00e6fc36e835abe"
       }
     },
     {
@@ -34,8 +34,8 @@
       "source": {
         "source": "github",
         "repo": "c-daly/memory",
-        "commit": "b4300c1219d2dbd7a89e94c6890345d8f9df199f",
-        "sha": "b4300c1219d2dbd7a89e94c6890345d8f9df199f"
+        "commit": "d46cd34047105ee2cce5af4612981131a595ef38",
+        "sha": "d46cd34047105ee2cce5af4612981131a595ef38"
       }
     },
     {
@@ -50,8 +50,8 @@
       "source": {
         "source": "github",
         "repo": "c-daly/continuity",
-        "commit": "b316989c37e3b044c0478fd6d48c07ab268b354f",
-        "sha": "b316989c37e3b044c0478fd6d48c07ab268b354f"
+        "commit": "9ed9e203b1b5668399f163ff42312c584763523d",
+        "sha": "9ed9e203b1b5668399f163ff42312c584763523d"
       }
     }
   ]
